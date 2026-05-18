@@ -1,0 +1,32 @@
+name: Small mechanical drill
+description: Was added on Ground Zero V0.1.
+type: Drill
+size: 1
+tier: 2
+health: 80
+drillTime: 300
+drawMineItem: true
+itemCapacity: 5
+liquidCapacity: 15
+outputLiquid: water
+outputLiquidPerTick: 0.5
+  consumes: {
+    liquid: {
+      liquid: water
+      amount: 0.05
+      optional: true
+      booster: true
+      update: true
+    }
+  }
+  upgrade: {
+    effects: {
+      drillSpeed: 1.2
+    }
+  }
+requirements: [
+  copper/6
+]
+
+category: production
+research: mechanical-drill

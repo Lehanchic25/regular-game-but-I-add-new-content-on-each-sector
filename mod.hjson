@@ -1,0 +1,8 @@
+minGameVersion: 136
+name: "rgbiancoes"
+subtitle: "Mindustry mod that adds new content each sector I visit"
+displayName: "Regular Game, but I add new content on each sector"
+description: "Mindustry mod that adds new content each sector I visit \n \n Version 0.1 (Each time I add a new content to the game i add + 0.1 to the Version [0.01 if it is the hot fix])"
+author: "Lehanchic25"
+version: "0.1"
+hidden: false
